@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 11 09:36:39 2019
 
-@author: 21363
+@author: ConstFadeev
 """
 import pandas as pd
 from rutermextract import TermExtractor #https://pypi.org/project/rutermextract/
