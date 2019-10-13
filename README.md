@@ -45,6 +45,7 @@ df_top.to_excel(f'{path[:path.rfind(".")] + "_"}keywords.xlsx', index=False)
 ## Пример
 Для примера, возьмем [статью](https://www.permkrai.ru/news/permskiy-setevoy-it-universitet-nabiraet-slushateley/) о пермском IT-университете на сайте губернатора и правительства Пермского края. Прогоним ее через написанный скрипт.
 На выходе получим следующие результаты:
+
 |keyword | frequency|
 |--------|----------|
 |it-университет|7|
